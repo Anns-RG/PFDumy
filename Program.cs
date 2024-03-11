@@ -19,5 +19,16 @@ namespace PFDumy
             // A line from RG
             Console.WriteLine("");
         }
+
+        public static void FunctionByAnnsGmailInFeature()
+        {
+            //// A line from Gmail
+            // // Gmail
+            // Gmail
+            // Gmail
+            // Gmail
+            // Gmail
+            Console.WriteLine("Gmail");
+        }
     }
 }
