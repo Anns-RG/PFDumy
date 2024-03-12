@@ -7,28 +7,34 @@ namespace PFDumy
         {
         }
 
-        public static void FunctionByAnnsRGInFeature()
+        public static void FunctionByAnns()
         {
-            //// A line from RG
-            // // A line from RGA line from RG
-            // A line from RG
-            // A line from RG
-            // A line from RG// A line from RG
-            // A line from RG
-            // A line from RG
-            // A line from RG
-            Console.WriteLine("");
+            // Console By Anns
+            // Console By Anns
+            // Console By Anns
+            // Console By Anns
+            // Console By Anns
+            // Console By Anns
+            // Console By Anns
+            // Console By Anns
+            // Console By Anns
+            // Console By Anns
+            // Console By Anns
         }
-
-        public static void FunctionByAnnsGmailInFeature()
+        
+        public static void FunctionByIbrahim()
         {
-            //// A line from Gmail
-            // // Gmail
-            // Gmail
-            // Gmail
-            // Gmail
-            // Gmail
-            Console.WriteLine("Gmail");
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
         }
     }
 }
