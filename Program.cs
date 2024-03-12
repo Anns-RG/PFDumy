@@ -21,5 +21,20 @@ namespace PFDumy
             // Console By Anns
             // Console By Anns
         }
+        
+        public static void FunctionByIbrahim()
+        {
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+            // Console By Ibrahim
+        }
     }
 }
